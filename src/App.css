@@ -1,0 +1,17 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #20232a;
+}
+
+h1 {
+  font-size: 48px;
+  color: #61dafb;
+  margin-bottom: 30px;
+}
